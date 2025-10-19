@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Labka5.2", "Labka5.2\Labka5.2.pyproj", "{D33E0CA9-1F97-4B46-9F7C-24B69CC9D566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33E0CA9-1F97-4B46-9F7C-24B69CC9D566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33E0CA9-1F97-4B46-9F7C-24B69CC9D566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4FD7092-8FDD-4B5D-A4E1-8410C52D1722}
+	EndGlobalSection
+EndGlobal

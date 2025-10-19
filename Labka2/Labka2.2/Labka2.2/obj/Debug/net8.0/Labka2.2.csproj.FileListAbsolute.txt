@@ -1,0 +1,14 @@
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\bin\Debug\net8.0\Labka2.2.exe
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\bin\Debug\net8.0\Labka2.2.deps.json
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\bin\Debug\net8.0\Labka2.2.runtimeconfig.json
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\bin\Debug\net8.0\Labka2.2.dll
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\bin\Debug\net8.0\Labka2.2.pdb
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.AssemblyInfoInputs.cache
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.AssemblyInfo.cs
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.csproj.CoreCompileInputs.cache
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.dll
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\refint\Labka2.2.dll
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.pdb
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\Labka2.2.genruntimeconfig.cache
+D:\visual studio\Proektiky\Labka2\Labka2.2\Labka2.2\obj\Debug\net8.0\ref\Labka2.2.dll

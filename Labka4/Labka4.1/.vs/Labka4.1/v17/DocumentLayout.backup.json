@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|d:\\visual studio\\proektiky\\labka4\\labka4.1\\labka4.1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|solutionrelative:labka4.1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|d:\\visual studio\\proektiky\\labka4\\labka4.1\\labka4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|solutionrelative:labka4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|d:\\visual studio\\proektiky\\labka4\\labka4.1\\labka4.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|solutionrelative:labka4.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|d:\\visual studio\\proektiky\\labka4\\labka4.1\\labka4.1\\inputdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|solutionrelative:labka4.1\\inputdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|d:\\visual studio\\proektiky\\labka4\\labka4.1\\labka4.1\\outputdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|solutionrelative:labka4.1\\outputdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\labka4.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}|Labka4.1\\Labka4.1.csproj|solutionrelative:labka4.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutputData.txt",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\OutputData.txt",
+              "RelativeDocumentMoniker": "Labka4.1\\OutputData.txt",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\OutputData.txt",
+              "RelativeToolTip": "Labka4.1\\OutputData.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T07:57:53.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Labka4.1\\Form1.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Form1.cs",
+              "RelativeToolTip": "Labka4.1\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:37:53.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputData.txt",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\InputData.txt",
+              "RelativeDocumentMoniker": "Labka4.1\\InputData.txt",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\InputData.txt",
+              "RelativeToolTip": "Labka4.1\\InputData.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T06:31:46.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Labka4.1\\Form1.Designer.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Form1.Designer.cs",
+              "RelativeToolTip": "Labka4.1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:11:06.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Program.cs",
+              "RelativeDocumentMoniker": "Labka4.1\\Program.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Program.cs",
+              "RelativeToolTip": "Labka4.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:10:34.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Labka4.1\\Form1.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka4\\Labka4.1\\Labka4.1\\Form1.cs [Design]*",
+              "RelativeToolTip": "Labka4.1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:10:13.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

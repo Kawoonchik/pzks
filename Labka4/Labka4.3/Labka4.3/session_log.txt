@@ -1,0 +1,5 @@
+INFO:root:Action 1: application started
+INFO:root:Action: imported input data
+INFO:root:Action: performed div \u2192 result 2.0
+INFO:root:Action: calculation attempt finished
+INFO:root:Action: exported result to output.txt

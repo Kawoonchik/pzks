@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labka4.1", "Labka4.1\Labka4.1.csproj", "{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DDAE7E-06C5-42B9-BF0A-DC7BBC85212E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC3F5EF0-3242-4B9F-8BDF-A3E60EA4C80C}
+	EndGlobalSection
+EndGlobal
