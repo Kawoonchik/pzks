@@ -1,0 +1,17 @@
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\bin\Debug\net8.0-windows\Labka7.3.exe
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\bin\Debug\net8.0-windows\Labka7.3.deps.json
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\bin\Debug\net8.0-windows\Labka7.3.runtimeconfig.json
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\bin\Debug\net8.0-windows\Labka7.3.dll
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\bin\Debug\net8.0-windows\Labka7.3.pdb
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\DomofonServiceApp.Form1.resources
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.csproj.GenerateResource.cache
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.AssemblyInfoInputs.cache
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.AssemblyInfo.cs
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.csproj.CoreCompileInputs.cache
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.sourcelink.json
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.dll
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\refint\Labka7.3.dll
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.pdb
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\Labka7.3.genruntimeconfig.cache
+D:\visual studio\Proektiky\Labka7\Labka7.3\Labka7.3\obj\Debug\net8.0-windows\ref\Labka7.3.dll
