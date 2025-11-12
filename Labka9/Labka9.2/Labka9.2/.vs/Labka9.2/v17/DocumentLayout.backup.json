@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92054BEE-5F23-48DD-97AB-5D49653646D5}|Labka9.2\\Labka9.2.pyproj|D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\Labka9.2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92054BEE-5F23-48DD-97AB-5D49653646D5}|Labka9.2\\Labka9.2.pyproj|solutionrelative:Labka9.2\\Labka9.2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92054BEE-5F23-48DD-97AB-5D49653646D5}|Labka9.2\\Labka9.2.pyproj|D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\doctors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92054BEE-5F23-48DD-97AB-5D49653646D5}|Labka9.2\\Labka9.2.pyproj|solutionrelative:Labka9.2\\doctors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92054BEE-5F23-48DD-97AB-5D49653646D5}|Labka9.2\\Labka9.2.pyproj|D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\patients.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92054BEE-5F23-48DD-97AB-5D49653646D5}|Labka9.2\\Labka9.2.pyproj|solutionrelative:Labka9.2\\patients.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "patients.txt",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\patients.txt",
+              "RelativeDocumentMoniker": "Labka9.2\\patients.txt",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\patients.txt",
+              "RelativeToolTip": "Labka9.2\\patients.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-11T17:12:59.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doctors.txt",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\doctors.txt",
+              "RelativeDocumentMoniker": "Labka9.2\\doctors.txt",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\doctors.txt",
+              "RelativeToolTip": "Labka9.2\\doctors.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-11T17:12:32.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labka9.2.py",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\Labka9.2.py",
+              "RelativeDocumentMoniker": "Labka9.2\\Labka9.2.py",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka9\\Labka9.2\\Labka9.2\\Labka9.2\\Labka9.2.py*",
+              "RelativeToolTip": "Labka9.2\\Labka9.2.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-11T17:09:51.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,11 +8,10 @@ namespace StreetWateringApp
         [STAThread]
         static void Main()
         {
-            // Увімкнення стилів Windows
+           
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Запуск головної форми
             Application.Run(new Form1());
         }
     }

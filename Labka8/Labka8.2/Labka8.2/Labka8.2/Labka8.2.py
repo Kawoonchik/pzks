@@ -2,12 +2,10 @@ import tkinter as tk
 from tkinter import messagebox
 from collections import namedtuple
 
-# ---------------------------------------------
-# Define namedtuple
-# ---------------------------------------------
+
 Pensioner = namedtuple("Pensioner", ["surname", "birth_year", "pension", "address"])
 
-# Create 7 pensioners (example data)
+
 pensioners = (
     Pensioner("Smith", 1950, 6200, "New York"),
     Pensioner("Johnson", 1948, 5800, "Chicago"),
@@ -18,9 +16,6 @@ pensioners = (
     Pensioner("Miller", 1951, 5900, "San Diego"),
 )
 
-# ---------------------------------------------
-# Function to calculate pension surcharge
-# ---------------------------------------------
 def surcharge(pensioners_tuple):
     avg_pension = sum(p.pension for p in pensioners_tuple) / len(pensioners_tuple)
     below_avg = [p.surname for p in pensioners_tuple if p.pension < avg_pension]
@@ -33,9 +28,7 @@ def surcharge(pensioners_tuple):
 
     return result_text
 
-# ---------------------------------------------
-# Function triggered by the GUI button
-# ---------------------------------------------
+
 def show_surcharge():
     result_text = surcharge(pensioners)
     output_text.set(result_text)
@@ -52,9 +45,7 @@ def update_pensions():
     messagebox.showinfo("Updated", "Pension values updated successfully!")
     show_surcharge()
 
-# ---------------------------------------------
-# GUI Setup
-# ---------------------------------------------
+
 root = tk.Tk()
 root.title("Pensioners Surcharge Analyzer")
 root.geometry("700x500")

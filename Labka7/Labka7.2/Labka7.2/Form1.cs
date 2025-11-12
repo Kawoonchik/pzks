@@ -20,6 +20,10 @@ namespace AeroflotApp
                 Num = num;
                 Type = type;
             }
+            public string ToString()
+            {
+                return $"City: {City}, Flight No: {Num}, Type: {Type}";
+            }
         }
 
         // Список рейсів

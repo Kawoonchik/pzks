@@ -7,7 +7,7 @@ namespace StreetWateringApp
 {
     public partial class Form1 : Form
     {
-        // —писок кортеж≥в (вулиц€, довжина, к≥льк≥сть будинк≥в, покритт€)
+        // —писок кортеж≥в
         private readonly List<(string street, double length, int houses, string surface)> streets = new();
 
         public Form1()
