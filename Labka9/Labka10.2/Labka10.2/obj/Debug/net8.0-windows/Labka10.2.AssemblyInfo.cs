@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Labka10.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8819753b0ff63e4bf736dc07b99b0b1bfdaf2d4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c18fe8e53c11860771a91fb0387102c66c4ad21e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Labka10.2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Labka10.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
