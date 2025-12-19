@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742A7928-591F-40B8-A0EA-154C4F658138}|..\\WpfApp3\\WpfApp3.csproj|d:\\visual studio\\proektiky\\labka14\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742A7928-591F-40B8-A0EA-154C4F658138}|..\\WpfApp3\\WpfApp3.csproj|d:\\visual studio\\proektiky\\labka14\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AF80BB-C6A1-4C81-A29C-E6D0DDE3BEF7}|..\\WpfApp2\\WpfApp2.csproj|d:\\visual studio\\proektiky\\labka14\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92AF80BB-C6A1-4C81-A29C-E6D0DDE3BEF7}|..\\WpfApp2\\WpfApp2.csproj|d:\\visual studio\\proektiky\\labka14\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D329E7B2-6FFB-4739-8D28-D57155BECCFE}|..\\WpfApp1\\WpfApp1.csproj|d:\\visual studio\\proektiky\\labka14\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|d:\\visual studio\\proektiky\\labka14\\tasks\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|d:\\visual studio\\proektiky\\labka14\\tasks\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D329E7B2-6FFB-4739-8D28-D57155BECCFE}|..\\WpfApp1\\WpfApp1.csproj|d:\\visual studio\\proektiky\\labka14\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|d:\\visual studio\\proektiky\\labka14\\tasks\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|d:\\visual studio\\proektiky\\labka14\\tasks\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|d:\\visual studio\\proektiky\\labka14\\tasks\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF2C8B4-7047-459C-9408-E90E1ABA4878}|Tasks.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp3\\MainWindow.xaml",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T10:33:50.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:33:50.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp2\\MainWindow.xaml",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T10:16:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:16:21.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T10:12:29.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:12:29.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T09:52:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:52:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:19:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T09:57:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\visual studio\\Proektiky\\Labka14\\Tasks\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:59:20.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\RecognizerApp.Form1.resources
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.csproj.GenerateResource.cache
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.AssemblyInfoInputs.cache
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.AssemblyInfo.cs
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.csproj.CoreCompileInputs.cache
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.sourcelink.json
+D:\visual studio\Proektiky\Labka13\Task13.3\obj\Debug\net8.0-windows\Task13.3.csproj.AssemblyReference.cache

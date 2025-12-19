@@ -1,0 +1,31 @@
+﻿<Window x:Class="ThreadPoolDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ThreadPool Countdown Demo" Height="420" Width="500"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center">
+            <TextBlock Text="Секунд:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+            <TextBox x:Name="SecondsInput" Width="80" Height="28" FontSize="14" />
+            <Button x:Name="StartButton" Content="Start" Width="80" Height="28" Margin="10,0,0,0" Click="Start_Click"/>
+            <Button x:Name="ClearButton" Content="Clear" Width="80" Height="28" Margin="8,0,0,0" Click="Clear_Click"/>
+        </StackPanel>
+
+        <TextBlock Grid.Row="1" Margin="0,10,0,6" FontStyle="Italic" Foreground="Gray">
+            Запускає три лічильники (затримки 1000, 700, 1500 мс). Результати додаються в список.
+        </TextBlock>
+
+        <ListBox x:Name="ResultsList" Grid.Row="2" Margin="0,6,0,6" FontFamily="Consolas" FontSize="13"/>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <TextBlock x:Name="StatusText" VerticalAlignment="Center" Margin="0,0,12,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
